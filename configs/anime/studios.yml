@@ -1,6 +1,6 @@
 templates:
   Studio:
-    mal_studio:
+    mal_search:
       studio_id: <<id>>
       limit: 0
     sort_title: zzzzzzzzzzzzzzzzzzzzzzzz_Studio_<<collection_name>>
